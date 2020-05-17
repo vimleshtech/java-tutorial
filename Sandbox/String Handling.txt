@@ -1,0 +1,17 @@
+There are following string functions:
+======================================
+-length()		: return count chars inculding space
+-charAt()		: return char of given index
+-toUpperCase()		: convert lower to upper case
+-toLowerCase()		: convert upper to lower case
+-replace()		: find old char/word and replace with new 
+-indexOf()		: return position of given char/word
+-trim()			: remove leading space
+-subString()		: cut/return data from string by given index
+-split()		: break string in array based on given seperater
+-equals()		: compare (case sensetive)
+-equalsIgnoreCase()	: compare (case insensetive)
+-startsWith()		: compare first/start char/word
+-endsWith()		: compare last/end char/word
+-contains()		: check char/word exist anywhere 
+etc.
